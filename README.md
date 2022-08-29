@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **omer-akbas/omer-akbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### Languages and Tools:
+
+ [![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)[![dotnet](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg) ](https://dotnet.microsoft.com/)[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/)[![go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg) ](https://golang.org)[![hugo](https://api.iconify.design/logos-hugo.svg) ](https://gohugo.io/)[![mariadb](https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg) ](https://mariadb.org/)[![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ](https://www.mongodb.com/)[![unreal](https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg) ](https://unrealengine.com/)[![vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)](https://vuejs.org/)
